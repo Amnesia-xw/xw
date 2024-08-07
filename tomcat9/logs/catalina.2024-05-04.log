@@ -1,0 +1,37 @@
+04-May-2024 18:12:28.754 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/9.0.54
+04-May-2024 18:12:28.757 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Sep 28 2021 13:51:49 UTC
+04-May-2024 18:12:28.757 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号:      9.0.54.0
+04-May-2024 18:12:28.757 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+04-May-2024 18:12:28.757 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+04-May-2024 18:12:28.757 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+04-May-2024 18:12:28.758 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     E:\Study\Android\Java\jdk\jre
+04-May-2024 18:12:28.758 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    1.8.0_391-b13
+04-May-2024 18:12:28.758 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+04-May-2024 18:12:28.758 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     E:\Study\AndroidProjects\Order_code\tomcat9
+04-May-2024 18:12:28.758 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     E:\Study\AndroidProjects\Order_code\tomcat9
+04-May-2024 18:12:28.758 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.config.file=E:\Study\AndroidProjects\Order_code\tomcat9\conf\logging.properties
+04-May-2024 18:12:28.758 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+04-May-2024 18:12:28.759 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djdk.tls.ephemeralDHKeySize=2048
+04-May-2024 18:12:28.759 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+04-May-2024 18:12:28.759 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dignore.endorsed.dirs=
+04-May-2024 18:12:28.759 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.base=E:\Study\AndroidProjects\Order_code\tomcat9
+04-May-2024 18:12:28.759 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Dcatalina.home=E:\Study\AndroidProjects\Order_code\tomcat9
+04-May-2024 18:12:28.759 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：       -Djava.io.tmpdir=E:\Study\AndroidProjects\Order_code\tomcat9\temp
+04-May-2024 18:12:28.763 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 安装了基于APR的Apache Tomcat Native库的旧版本[1.2.25]，而Tomcat建议使用[1.2.30]的最低版本
+04-May-2024 18:12:28.763 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.25]。
+04-May-2024 18:12:28.763 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]、UDS [false]。
+04-May-2024 18:12:28.764 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+04-May-2024 18:12:28.767 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1g  21 Apr 2020]
+04-May-2024 18:12:29.031 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+04-May-2024 18:12:29.053 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[456]毫秒内初始化
+04-May-2024 18:12:29.088 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+04-May-2024 18:12:29.089 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/9.0.54]
+04-May-2024 18:12:29.097 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [E:\Study\AndroidProjects\Order_code\tomcat9\webapps\docs]
+04-May-2024 18:12:29.524 警告 [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom 使用[SHA1PRNG]创建会话ID生成的SecureRandom实例花费了[211]毫秒。
+04-May-2024 18:12:29.544 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[E:\Study\AndroidProjects\Order_code\tomcat9\webapps\docs]的部署已在[446]毫秒内完成
+04-May-2024 18:12:29.544 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [E:\Study\AndroidProjects\Order_code\tomcat9\webapps\manager]
+04-May-2024 18:12:29.598 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[E:\Study\AndroidProjects\Order_code\tomcat9\webapps\manager]的部署已在[54]毫秒内完成
+04-May-2024 18:12:29.598 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [E:\Study\AndroidProjects\Order_code\tomcat9\webapps\ROOT]
+04-May-2024 18:12:29.623 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[E:\Study\AndroidProjects\Order_code\tomcat9\webapps\ROOT]的部署已在[25]毫秒内完成
+04-May-2024 18:12:29.633 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+04-May-2024 18:12:29.651 信息 [main] org.apache.catalina.startup.Catalina.start [596]毫秒后服务器启动

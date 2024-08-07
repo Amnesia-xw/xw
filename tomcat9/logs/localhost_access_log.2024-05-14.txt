@@ -1,0 +1,2 @@
+10.189.79.224 - - [14/May/2024:23:03:22 +0800] "GET /order/shop_list_data.json HTTP/1.1" 200 3803
+10.189.79.224 - - [14/May/2024:23:03:39 +0800] "GET /order/img/food/food2.png HTTP/1.1" 200 63248

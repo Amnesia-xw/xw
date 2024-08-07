@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- match_parent:占据手机界面全部            wrap_content：占据自己的那一部分-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/launch_bg">
+    <!-- 设置欢迎界面背景图片 -->
+</RelativeLayout>

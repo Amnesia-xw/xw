@@ -1,0 +1,202 @@
+﻿[
+{
+"id":1,
+"shopName":"快乐柠檬",
+"saleNum":1023,
+"offerPrice":20,
+"distributionCost":5,
+"welfare":"进店可获得一个香草冰淇淋",
+"time":"25",
+"shopPic":"/img/shop/shop1.png",
+"shopNotice":"公告：奶茶味道很棒哟！",
+"foodList":[
+	{ 
+	"foodId":"1",
+	"foodName":"珍珠奶茶",
+	"taste":"珍珠、奶茶",
+	"saleNum":"336",
+	"price":14,
+	"count":0,
+	"foodPic":"/img/food/food1.png"
+	},
+	{
+	"foodId":"2",
+	"foodName":"大满贯布丁奶茶（大杯）",
+	"taste":"布丁、奶茶",
+	"saleNum":"259",
+	"price":17,
+	"count":0,
+	"foodPic":"/img/food/food2.png"
+	},
+	{
+	"foodId":"3",
+	"foodName":"网红蛋糕风味奶茶",
+	"taste":"奶茶",
+	"saleNum":"228",
+	"price":20,
+	"count":0,
+	"foodPic":"/img/food/food3.png"
+	}
+	]
+},
+{
+"id":2,
+"shopName":"CoCo都可",
+"saleNum":2467,
+"offerPrice":25,
+"distributionCost":2,
+"welfare":"广外大街饮品人气第1名",
+"time":"30",
+"shopPic":"/img/shop/shop2.png",
+"shopNotice":"公告：鲜百香双响炮酸酸甜甜好喝哦......",
+"foodList":[
+	{ 
+	"foodId":"1",
+	"foodName":"鲜百香双响炮/大杯",
+	"taste":"鲜香",
+	"saleNum":"930",
+	"price":16,
+	"count":0,
+	"foodPic":"/img/food/food21.png"
+	},
+	{
+	"foodId":"2",
+	"foodName":"珍珠奶茶/大杯",
+	"taste":"珍珠、奶茶",
+	"saleNum":"606",
+	"price":12,
+	"count":0,
+	"foodPic":"/img/food/food22.png"
+	},
+	{
+	"foodId":"3",
+	"foodName":"梅梅果茶",
+	"taste":"梅梅、茶",
+	"saleNum":"400",
+	"price":13,
+	"count":0,
+	"foodPic":"/img/food/food23.png"
+	}
+	]
+},
+{
+"id":3,
+"shopName":"维尔纳斯",
+"saleNum":1500,
+"offerPrice":0,
+"distributionCost":0,
+"welfare":"蛋糕很好吃，奶油新鲜不腻，水果新鲜",
+"time":"45",
+"shopPic":"/img/shop/shop3.png",
+"shopNotice":"公告：维尔纳斯蛋糕选用进口动物奶油制作，特别好吃。",
+"foodList":[
+	{ 
+	"foodId":"1",
+	"foodName":"小精灵皮卡丘",
+	"taste":"甜甜的",
+	"saleNum":"30",
+	"price":118,
+	"count":0,
+	"foodPic":"/img/food/food31.png"
+	},
+	{
+	"foodId":"2",
+	"foodName":"独角兽之欢天喜地",
+	"taste":"酸甜的",
+	"saleNum":"20",
+	"price":120,
+	"count":0,
+	"foodPic":"/img/food/food32.png"
+	},
+	{
+	"foodId":"3",
+	"foodName":"大萌宝皮卡丘",
+	"taste":"微甜",
+	"saleNum":"10",
+	"price":130,
+	"count":0,
+	"foodPic":"/img/food/food33.png"
+	}
+	]
+},
+{
+"id":4,
+"shopName":"老婆很芒榴莲千层蛋糕",
+"saleNum":9999,
+"offerPrice":10,
+"distributionCost":2,
+"welfare":"挺不错的，水果也挺新鲜",
+"time":"60",
+"shopPic":"/img/shop/shop4.png",
+"shopNotice":"公告：选用进口原料，每一步骤我们都追求卓越。",
+"foodList":[
+	{ 
+	"foodId":"1",
+	"foodName":"榴莲千层蛋糕/切角",
+	"taste":"榴莲",
+	"saleNum":"3329",
+	"price":5,
+	"count":0,
+	"foodPic":"/img/food/food41.png"
+	},
+	{
+	"foodId":"2",
+	"foodName":"草莓千层蛋糕/切角",
+	"taste":"草莓",
+	"saleNum":"2000",
+	"price":18,
+	"count":0,
+	"foodPic":"/img/food/food42.png"
+	},
+	{
+	"foodId":"3",
+	"foodName":"黄桃盒子蛋糕-280ml",
+	"taste":"黄桃",
+	"saleNum":"154",
+	"price":17,
+	"count":0,
+	"foodPic":"/img/food/food43.png"
+	}
+	]
+},
+{
+"id":5,
+"shopName":"本宫的茶",
+"saleNum":4000,
+"offerPrice":20,
+"distributionCost":7,
+"welfare":"茶的味道很浓郁",
+"time":"55",
+"shopPic":"/img/shop/shop5.png",
+"shopNotice":"公告：隐秘而伟大的联名杯套，备注就送，送，送！！！限量，送完为止！",
+"foodList":[
+	{ 
+	"foodId":"1",
+	"foodName":"岩烧脆脆奶",
+	"taste":"脆奶",
+	"saleNum":"199",
+	"price":16,
+	"count":0,
+	"foodPic":"/img/food/food51.png"
+	},
+	{
+	"foodId":"2",
+	"foodName":"白玉红豆",
+	"taste":"红豆",
+	"saleNum":"180",
+	"price":13,
+	"count":0,
+	"foodPic":"/img/food/food52.png"
+	},
+	{
+	"foodId":"3",
+	"foodName":"本宫鸳鸯",
+	"taste":"微甜",
+	"saleNum":"74",
+	"price":14,
+	"count":0,
+	"foodPic":"/img/food/food53.png"
+	}
+	]
+}
+]

@@ -1,0 +1,15 @@
+系统属性》高级系统设置》环境变量》系统变量
+
+JAVA_HOME
+C:\Program Files\Java\jdk1.8.0_191
+
+Path
+%JAVA_HOME%\bin
+
+确认配置成功：
+win+r：打开运行
+输入：cmd 回车（打开控制面板）
+
+输入：java -version
+
+https://blog.csdn.net/weixin_72964923/article/details/125981675
